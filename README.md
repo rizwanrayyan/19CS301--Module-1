@@ -14,7 +14,10 @@ Step 3:	 Use the print() function to display the multi-line string.
 Step 4:	 Terminate the program
 
 ### PROGRAM
-```string_single_quotes = '''I am a string literal
+```
+#Name:Rizwan T
+#Reg no:212222040134
+string_single_quotes = '''I am a string literal
 ... has more than one
 ... line
 ....placed inside triple single quotes'''
@@ -51,7 +54,10 @@ Step 3:	Use the print() function to display the numbers 123, 456, and 789.
 Step 4:	Terminate the program.
 
 ### PROGRAM
-```num1 = 123
+```
+#Name:Rizwan T
+#Reg no:212222040134
+num1 = 123
 num2 = 456
 num3 = 789
 print(num1)
@@ -90,6 +96,8 @@ Step 6:	Terminate the program.
 
 ### PROGRAM
 ```
+#Name:Rizwan T
+#Reg no:212222040134
 A = eval(input())
 B = eval(input())
 
@@ -128,7 +136,10 @@ Step 6:	 Otherwise, display "The given character is NOT a vowel"
 Step 7:	 Terminate the program.
 
 ### PROGRAM
-```char = input("Enter a character: ")
+```
+#Name:Rizwan T
+#Reg no:212222040134
+char = input("Enter a character: ")
 char_lower = char.lower()
 if char_lower in ['a', 'e', 'i', 'o', 'u']:
     print("The given character is a vowel")
@@ -169,6 +180,8 @@ Step 7:	 Print the minimum value along with the input numbers in the format: "Th
 Step 8:	 Terminate the program.
 ### PROGRAM
 ```
+#Name:Rizwan T
+#Reg no:212222040134
 num1=int(input())
 num2=int(input())
 num3=int(input())
